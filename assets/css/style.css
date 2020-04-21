@@ -9,35 +9,3 @@ body {
     color: #777777;
     background-image:url();
 }
-
-.header{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #4aaaa5;
-    background-color: #ffffff;
-}
-
-h1 h2 h3 h4 h5 h6{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.ul {
-    float: center;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    text-decoration-color: #4aaaa5;
-}
-   
-footer{
-    color: #777777;
-    background-color: #666666;
-    padding: 20px;
-    margin-top: 20px;
-    text-align: center;
-}
-
-.class{
-    width: 960px;
-    text-align: center;
-}
