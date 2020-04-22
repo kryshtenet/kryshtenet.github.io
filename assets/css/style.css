@@ -9,6 +9,7 @@
 {
     width: auto;
     height: 900px;
+    margin-top: 20px;
     padding: 0;
     border: black;
     
@@ -39,7 +40,7 @@
     width: auto;
     height: 775px;
     background-color: antiquewhite; 
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 100px;
 }
 
