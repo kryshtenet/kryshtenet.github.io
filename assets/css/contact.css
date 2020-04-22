@@ -1,0 +1,22 @@
+.container {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+.navbar-brand
+{
+    height: 50px;
+    padding-bottom: 10px;
+    background-color: none;
+    font-family: Haettenschweiler;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+
+.p-2
+{
+    font-family: Haettenschweiler;
+    font-size: larger;
+    text-decoration: black !important;
+    color: black;
+}
